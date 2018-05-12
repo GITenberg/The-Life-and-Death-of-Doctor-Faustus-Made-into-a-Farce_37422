@@ -1,0 +1,44 @@
+_repo: The-Life-and-Death-of-Doctor-Faustus-Made-into-a-Farce_37422
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37422-h/images/i_cover.png
+creator:
+  authors:
+  - agent_name: Mountfort, William
+    aliases:
+    - Mountford, Mr. (William)
+    - Montfort, William
+    deathdate: 1692
+    gutenberg_agent_id: '38833'
+    url: http://www.gutenberg.org/2009/agents/38833
+  - agent_name: Marlowe, Christopher
+    aliases:
+    - Marlo, Christopher
+    - Marloe, Christopher
+    - Marlow, Christopher
+    birthdate: 1564
+    deathdate: 1593
+    gutenberg_agent_id: '410'
+    url: http://www.gutenberg.org/2009/agents/410
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Marlowe
+  editor:
+    agent_name: Kaufman, Anthony
+    gutenberg_agent_id: '38834'
+    url: http://www.gutenberg.org/2009/agents/38834
+description: Based on C. Marlowe's Doctor Faustus.
+gutenberg_issued: '2011-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37422'
+  lccn: '75303585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 157
+subjects:
+- !lcsh 'Faust, -approximately 1540 -- Drama'
+- !lcc 'PR'
+title: The Life and Death of Doctor Faustus Made into a Farce
+url: http://www.gutenberg.org/ebooks/37422
